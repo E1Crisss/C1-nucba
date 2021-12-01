@@ -56,7 +56,7 @@ button {
     padding: 15px 45px 15px 45px;
     border-radius: 5px;
     border-style: none;
-    box-shadow: 0px 10px 10px -6px rgb(38, 28, 92);
+    box-shadow: 0px 10px 20px -15px  #ED6755;
 }
 
 .b2 .container p { 
@@ -66,6 +66,7 @@ button {
 
 .b2 .container button {
     background-color: rgb(38, 28, 92);
+    box-shadow: 0px 10px 20px -15px rgb(38, 28, 92);
 }
 
 .b2 {
