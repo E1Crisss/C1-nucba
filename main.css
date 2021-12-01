@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;   
+}
+
+body {  
+    background-color: rgb(233, 234, 235);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.box-b1-b2 {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    margin-top: 35px;
+    background-color: #FFFFFF;
+    border-radius: 2em;
+    width: 432px ;
+    height: 399px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    font-family: monospace;
+    color: #c7c8ca;
+    font-size: 2em;
+    margin: 1.2em 0em 0em 13em;
+    opacity: 0.5;
+    
+}
+
+img {
+    margin-top: 1em;
+    align-items: center;
+    margin-bottom: 1.2em;
+}
+
+.container p { 
+    color: #000000;
+    text-align: center;
+    font-size: 17px;    
+    margin: 0 3em 1em 3em;
+}
+
+button {
+    color: #FFFFFF;
+    font-weight: 400;
+    background-color: #ED6755;
+    padding: 15px 45px 15px 45px;
+    border-radius: 5px;
+    border-style: none;
+    box-shadow: 0px 10px 10px -6px rgb(38, 28, 92);
+}
+
+.b2 .container p { 
+    margin: 0 6em 2em 6em;
+
+}
+
+.b2 .container button {
+    background-color: rgb(38, 28, 92);
+}
+
+.b2 {
+    margin-bottom: 35px;
+}
+
+
+
+
+
